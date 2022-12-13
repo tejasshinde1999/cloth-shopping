@@ -14,6 +14,7 @@ import {
   Price,
 } from './product-card.styles';
 
+
 type ProductCardProps = {
   product: CategoryItem;
 };
